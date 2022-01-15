@@ -8,7 +8,7 @@ I will develop a professional portifolio for career as a Software Engineer.
 
 ![Screen shot of Profile Page](https://i.imgur.com/GQEE1Gg.jpg)
 
-## Built with
+## Built with ##
 
 -HTML and CSS
 -Frameworks: N/A
@@ -25,3 +25,4 @@ contributions, issues, and feature requests are welcome!
 
 Give a :star: if you like this project!
 
+## Thanks##

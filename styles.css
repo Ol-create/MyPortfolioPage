@@ -109,3 +109,23 @@ order: 2;
 flex-grow: 0;
 margin: 12px 0px;
 }
+
+.icon{
+    position: absolute;
+    width: 200px;
+    height: 27px;
+    left: 30px;
+    top: 400px;
+    display: flex;
+    justify-content: space-between;
+
+}
+ul{
+    list-style: none;
+}
+
+.fa{
+
+ color: #DBD8D7;  
+
+}
